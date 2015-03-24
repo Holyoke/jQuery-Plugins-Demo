@@ -1,6 +1,4 @@
-# w6d4: [jQuery Plugins][description]
-
-## Live Solutions!
+## Click on each feature for a demo!
 
 * [Carousel](http://appacademy.github.io/jQueryPlugins/html/carousel.html)
 * [Knob](http://appacademy.github.io/jQueryPlugins/html/knob.html)
@@ -8,4 +6,3 @@
 * [Thumbnails](http://appacademy.github.io/jQueryPlugins/html/thumbnails.html)
 * [Zoomable](http://appacademy.github.io/jQueryPlugins/html/zoomable.html)
 
-[description]: https://github.com/appacademy/js-curriculum/blob/master/projects/w6d4-jquery-plugins.md
