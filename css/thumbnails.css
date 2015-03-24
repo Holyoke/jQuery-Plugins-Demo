@@ -1,0 +1,41 @@
+div.thumbnails {
+  width: 400px;
+}
+
+div.thumbnails div.active img {
+  width: 100%;
+}
+
+div.thumbnails div.gutter {
+  position: relative;
+}
+
+div.thumbnails div.gutter-images {
+  left: 5%;
+  position: relative;
+  width: 90%;
+}
+
+div.thumbnails div.gutter div.gutter-images img {
+  display: block;
+  float: left;
+  width: 20%;
+}
+
+div.thumbnails div.gutter a.nav {
+  font-size: 2em;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 5%;
+}
+
+div.thumbnails div.gutter a.nav.right {
+  left: 95%;
+}
+
+.clearfix {
+  clear: both;
+}
